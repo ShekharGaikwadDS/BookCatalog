@@ -1,1 +1,3 @@
 # BookStore
+
+BookCatalog is a web application built using Flask and PostgreSQL, designed to provide users with an interactive online book catalog. The application allows users to register, login, and logout, providing them with a personalized experience. Users can perform CRUD (Create, Read, Update, Delete) operations on the book catalog, allowing them to add new books, view book details, update book information, and delete books from the catalog. The application leverages SQLAlchemy ORM for efficient database querying and integrates Flask Bootstrap for an appealing and responsive user interface. The project is hosted on Heroku, enabling easy accessibility and deployment for users
